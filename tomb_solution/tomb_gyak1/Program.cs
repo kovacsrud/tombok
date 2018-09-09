@@ -6,6 +6,13 @@
  * 
  * A sablon megváltoztatásához használja az Eszközök | Beállítások | Kódolás | Szabvány Fejlécek Szerkesztését.
  */
+ 
+ /*
+  Olvassunk be egész számokat egy tömbbe (a darabszámot is kérje be a program),
+majd kérjünk be egy egész számot. Keressük meg a tömbben az első ilyen egész
+számot, majd írjuk ki a tömbindexét. Ha a tömbben nincs ilyen szám, írjuk ki, hogy
+a beolvasott szám nincs a tömbben.
+  */ 
 using System;
 
 namespace tomb_gyak1
